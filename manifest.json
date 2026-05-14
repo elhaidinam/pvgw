@@ -1,0 +1,21 @@
+{
+  "name": "PV en Poche - Pocket Guide",
+  "short_name": "PV en Poche",
+  "description": "Um guia móvel abrangente para profissionais de Farmacovigilância.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#008751",
+  "icons": [
+    {
+      "src": "difalrm.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "difalrm.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
